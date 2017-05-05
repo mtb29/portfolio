@@ -18,7 +18,7 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 * [Baseball Card Database](https://github.com/mtb29/baseballcards): A STS project that can retrieve information about a baseball card collection.
 * [Class List Database](https://github.com/mtb29/mysql_workbench): Using mySQL Workbench and STS, I created a repository that creates a class list for the Fall 2016 semester and a program that lists the number of lecture classes and the number of online classes.
 * [CIS3304 Course](https://github.com/mtb29/cis3304): A collection of some of the work I created during Advanced Web Design at MU.
-* [PHP/mySQL Quiz Application](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject): A web based application that features quizzes and email functionality, created using PHP.
+* [PHP/mySQL Quiz Application](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject): A web based application that features quizzes and email functionality, created using PHP. [Video](https://www.youtube.com/watch?v=axjz5JwFjPE)
 
 ### Group Repositories
 
@@ -28,8 +28,8 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 * [Guide Wiki](https://github.com/Team-Juan/user-guides/wiki) - A collection of various user guides created by Team-Juan. I created the SQL guide and challenge.
 * [Team-Fyve](https://github.com/Team-Fyve) - Another team consisting of fellow MU students in the CS program.
 * [Red Forest: Website](https://github.com/Team-Fyve/WebDB) - A repository for Team-Fyve's website and database.
-* [Red Forest: RPG](https://github.com/Team-Fyve/TeamFyve-RPG) - A repository for Team-Fyve's Java based RPG.
-* [TrumpClicker](https://github.com/mtb29/trumpclicker) - A JavaScript based browser game called TrumpClicker.
+* [Red Forest: RPG](https://github.com/Team-Fyve/TeamFyve-RPG) - A repository for Team-Fyve's Java based RPG. [Video](https://www.youtube.com/watch?v=0CsaGxeKoTY)
+* [TrumpClicker](https://github.com/mtb29/trumpclicker) - A JavaScript based browser game called TrumpClicker. [Video](https://www.youtube.com/watch?v=ydXovGqCk7g)
 
 ### Miscellaneous
 
