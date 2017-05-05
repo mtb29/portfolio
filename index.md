@@ -35,6 +35,7 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 
 * [Bootstrap Portfolio](https://mtb29.github.io/portfolio2/) - A bootstrap based portfolio website.
 * [IBM MTM 2016](https://raw.githubusercontent.com/mtb29/portfolio/master/ibm.PNG.png) - I completed Part 1 and made progress on Part 2 of the IBM MTM 2016 contest.
+* [MU Slot Machine](https://github.com/mtb29/portfolio/blob/master/slotmachine.png?raw=true) - As part of a group project, my team created a slot machine application that runs on Android.
 
 ### Contact
 
