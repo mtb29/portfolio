@@ -1,10 +1,14 @@
 # Matthew Brady
 
-I am studying computer science at Mansfield University. I am currently a junior and am on track to graduating a semester early.
+I am studying Computer Science at Mansfield University. I am currently a senior and am on track to graduating a semester early.
 
 ### Resume
 
-My resume can be found here: [Resume](https://github.com/mtb29/portfolio/blob/master/MBradyTechResume.docx)
+My resume can be found here: [Resume](https://github.com/mtb29/portfolio/blob/master/Matthew%20Brady%20Resume.pdf)
+
+### Capstone Project
+
+For my senior capstone project at Mansfield University, I decided that I was going to build a photobooth using a raspberry pi and some other components. You can track my progress [here](https://github.com/mtb29/pibooth). Estimated completion date: December 2017.
 
 ### Code Repositories
 
@@ -13,6 +17,8 @@ My resume can be found here: [Resume](https://github.com/mtb29/portfolio/blob/ma
 * Employee Database: A netbeans project that can retrieve data from an employee database - [Click Here](https://github.com/mtb29/s2emp)
 * Baseball Card Database: A STS project that can retrieve information about a baseball card collection - [Click Here](https://github.com/mtb29/baseballcards)
 * Class List Database: Using mySQL Workbench and STS, I created a repository that creates a class list for the Fall 2016 semester and a program that lists the number of lecture classes and the number of online classes. - [Click Here](https://github.com/mtb29/mysql_workbench)
+* CIS3304 Course: A collection of some of the work I created during Advanced Web Design at MU. - [Click Here](https://github.com/mtb29/cis3304)
+* PHP/mySQL Quiz Application: A web based application that features quizzes and email functionality, created using PHP - [Click Here](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject)
 
 ### Group Repositories
 
@@ -20,8 +26,18 @@ My resume can be found here: [Resume](https://github.com/mtb29/portfolio/blob/ma
 * [CODEography Bulletin Board](https://raw.githubusercontent.com/Team-Juan/Bulletin-Board/master/bulletinboard.jpg) - We created a bulletin board that lists information about popular and not so popular programming languages. I designed the logos and images for this bulletin board.
 * [Computer Database Program](https://github.com/Team-Juan/group_project) - A java based program that lets you manipulate computer information in a database. I fixed the mySQL error and added the search functionality. I also added the Java Documentation and JUnit test.
 * [Guide Wiki](https://github.com/Team-Juan/user-guides/wiki) - A collection of various user guides created by Team-Juan. I created the SQL guide and challenge.
+* [Team-Fyve](https://github.com/Team-Fyve) - Another team consisting of fellow MU students in the CS program.
+* [Red Forest: Website](https://github.com/Team-Fyve/WebDB) - A repository for Team-Fyve's website and database.
+* [Red Forest: RPG](https://github.com/Team-Fyve/TeamFyve-RPG) - A repository for Team-Fyve's Java based RPG.
+* [TrumpClicker](https://github.com/mtb29/trumpclicker) - A JavaScript based browser game called TrumpClicker.
 
 ### Miscellaneous
 
 * [Bootstrap Portfolio](https://mtb29.github.io/portfolio2/) - A bootstrap based portfolio website.
-* [IBM MTM 2016](https://raw.githubusercontent.com/mtb29/portfolio/master/ibm.PNG.png) - I completed Part 1 and made progress on Part 2 of the IBM MTM 2016 contest. 
+* [IBM MTM 2016](https://raw.githubusercontent.com/mtb29/portfolio/master/ibm.PNG.png) - I completed Part 1 and made progress on Part 2 of the IBM MTM 2016 contest.
+
+### Contact
+
+* [LinkedIn](https://www.linkedin.com/in/matthew-brady-149aa6a8/)
+* [Facebook](https://www.facebook.com/matthew.brady.1426)
+* [Twitter](https://twitter.com/mtb_brady)
