@@ -1,6 +1,6 @@
 # Matthew Brady
 
-I am studying Computer Science at Mansfield University. I am currently a senior and am on track to graduating a semester early.
+I am studying Computer Science at Mansfield University. I am currently a senior and am on track to graduating a semester early. I started self-teaching myself programming when I was 11 years old. Since then, there was no looking back!
 
 ### Resume
 
@@ -12,13 +12,13 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 
 ### Code Repositories
 
-* AWS Shell Script (Console): A basic shell script to setup an AWS cloud server - [Click Here](https://github.com/mtb29/awsshellscripts)
-* AWS Shell Script (GUI): A more advanced shell script to setup an AWS cloud server with a GUI - [Click Here](https://github.com/mtb29/awsshellscripts2)
-* Employee Database: A netbeans project that can retrieve data from an employee database - [Click Here](https://github.com/mtb29/s2emp)
-* Baseball Card Database: A STS project that can retrieve information about a baseball card collection - [Click Here](https://github.com/mtb29/baseballcards)
-* Class List Database: Using mySQL Workbench and STS, I created a repository that creates a class list for the Fall 2016 semester and a program that lists the number of lecture classes and the number of online classes. - [Click Here](https://github.com/mtb29/mysql_workbench)
-* CIS3304 Course: A collection of some of the work I created during Advanced Web Design at MU. - [Click Here](https://github.com/mtb29/cis3304)
-* PHP/mySQL Quiz Application: A web based application that features quizzes and email functionality, created using PHP - [Click Here](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject)
+* [AWS Shell Script (Console)]((https://github.com/mtb29/awsshellscripts): A basic shell script to setup an AWS cloud server.
+* [AWS Shell Script (GUI)](https://github.com/mtb29/awsshellscripts2): A more advanced shell script to setup an AWS cloud server with a GUI.
+* [Employee Database](https://github.com/mtb29/s2emp): A netbeans project that can retrieve data from an employee database.
+* [Baseball Card Database](https://github.com/mtb29/baseballcards): A STS project that can retrieve information about a baseball card collection.
+* [Class List Database](https://github.com/mtb29/mysql_workbench): Using mySQL Workbench and STS, I created a repository that creates a class list for the Fall 2016 semester and a program that lists the number of lecture classes and the number of online classes.
+* [CIS3304 Course](https://github.com/mtb29/cis3304): A collection of some of the work I created during Advanced Web Design at MU.
+* [PHP/mySQL Quiz Application](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject): A web based application that features quizzes and email functionality, created using PHP.
 
 ### Group Repositories
 
@@ -41,3 +41,4 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 * [LinkedIn](https://www.linkedin.com/in/matthew-brady-149aa6a8/)
 * [Facebook](https://www.facebook.com/matthew.brady.1426)
 * [Twitter](https://twitter.com/mtb_brady)
+* [Whatcha Knead?: Baked Goods!](https://www.facebook.com/whatchaknead/)
