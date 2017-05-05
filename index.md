@@ -10,7 +10,7 @@ My resume can be found here: [Resume](https://github.com/mtb29/portfolio/blob/ma
 
 For my senior capstone project at Mansfield University, I decided that I was going to build a photobooth using a raspberry pi and some other components. You can track my progress [here](https://github.com/mtb29/pibooth). Estimated completion date: December 2017.
 
-### Code Repositories
+### Solo Work
 
 * [AWS Shell Script (Console)](https://github.com/mtb29/awsshellscripts): A basic shell script to setup an AWS cloud server.
 * [AWS Shell Script (GUI)](https://github.com/mtb29/awsshellscripts2): A more advanced shell script to setup an AWS cloud server with a GUI.
@@ -20,7 +20,7 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 * [CIS3304 Course](https://github.com/mtb29/cis3304): A collection of some of the work I created during Advanced Web Design at MU.
 * [PHP/mySQL Quiz Application](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject): A web based application that features quizzes and email functionality, created using PHP. [Video](https://www.youtube.com/watch?v=axjz5JwFjPE)
 
-### Group Repositories
+### Group Work
 
 * [Team Juan](https://team-juan.github.io/team-portfolio/) - A team consisting of fellow Mansfield University students in the Computer Science program.
 * [CODEography Bulletin Board](https://raw.githubusercontent.com/Team-Juan/Bulletin-Board/master/bulletinboard.jpg) - We created a bulletin board that lists information about popular and not so popular programming languages. I designed the logos and images for this bulletin board.
@@ -31,12 +31,12 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 * [Red Forest: Website](https://github.com/Team-Fyve/WebDB) - A repository for Team-Fyve's website and database.
 * [Red Forest: RPG](https://github.com/Team-Fyve/TeamFyve-RPG) - A repository for Team-Fyve's Java based RPG. [Video](https://www.youtube.com/watch?v=0CsaGxeKoTY)
 * [TrumpClicker](https://github.com/mtb29/trumpclicker) - A JavaScript based browser game called TrumpClicker. [Video](https://www.youtube.com/watch?v=ydXovGqCk7g)
+* [MU Slot Machine](https://github.com/mtb29/portfolio/blob/master/slotmachine.png?raw=true) - As part of a group project, my team created a slot machine application that runs on Android.
 
 ### Miscellaneous
 
 * [Bootstrap Portfolio](https://mtb29.github.io/portfolio2/) - A bootstrap based portfolio website.
 * [IBM MTM 2016](https://raw.githubusercontent.com/mtb29/portfolio/master/ibm.PNG.png) - I completed Part 1 and made progress on Part 2 of the IBM MTM 2016 contest.
-* [MU Slot Machine](https://github.com/mtb29/portfolio/blob/master/slotmachine.png?raw=true) - As part of a group project, my team created a slot machine application that runs on Android.
 
 ### Contact
 
