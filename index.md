@@ -19,6 +19,7 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 * [Class List Database](https://github.com/mtb29/mysql_workbench): Using mySQL Workbench and STS, I created a repository that creates a class list for the Fall 2016 semester and a program that lists the number of lecture classes and the number of online classes.
 * [CIS3304 Course](https://github.com/mtb29/cis3304): A collection of some of the work I created during Advanced Web Design at MU.
 * [PHP/mySQL Quiz Application](https://github.com/mtb29/cis3304/tree/master/src/main/webapp/finalproject): A web based application that features quizzes and email functionality, created using PHP. [Video](https://www.youtube.com/watch?v=axjz5JwFjPE)
+* [IBM MTM 2016](https://raw.githubusercontent.com/mtb29/portfolio/master/ibm.PNG.png) - I completed Part 1 and made progress on Part 2 of the IBM MTM 2016 contest.
 
 ### Group Work
 
@@ -36,7 +37,6 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 ### Miscellaneous
 
 * [Bootstrap Portfolio](https://mtb29.github.io/portfolio2/) - A bootstrap based portfolio website.
-* [IBM MTM 2016](https://raw.githubusercontent.com/mtb29/portfolio/master/ibm.PNG.png) - I completed Part 1 and made progress on Part 2 of the IBM MTM 2016 contest.
 
 ### Contact
 
