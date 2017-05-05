@@ -12,7 +12,7 @@ For my senior capstone project at Mansfield University, I decided that I was goi
 
 ### Code Repositories
 
-* [AWS Shell Script (Console)]((https://github.com/mtb29/awsshellscripts): A basic shell script to setup an AWS cloud server.
+* [AWS Shell Script (Console)](https://github.com/mtb29/awsshellscripts): A basic shell script to setup an AWS cloud server.
 * [AWS Shell Script (GUI)](https://github.com/mtb29/awsshellscripts2): A more advanced shell script to setup an AWS cloud server with a GUI.
 * [Employee Database](https://github.com/mtb29/s2emp): A netbeans project that can retrieve data from an employee database.
 * [Baseball Card Database](https://github.com/mtb29/baseballcards): A STS project that can retrieve information about a baseball card collection.
